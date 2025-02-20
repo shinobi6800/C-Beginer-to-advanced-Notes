@@ -2,7 +2,7 @@
 
 ## Introduction
 Welcome to this C++ programming guide! This README is designed for beginners and intermediate learners who want to master C++ fundamentals, build small applications, and move towards advanced concepts. Whether you're new to coding or have prior experience, this document will serve as a structured roadmap.
-
+Be sure to enjoy , Masterin a mid level language like cpp helps you understand the fundamentals of programming and sofware dev
 ---
 
 ## **1. Getting Started with C++**
